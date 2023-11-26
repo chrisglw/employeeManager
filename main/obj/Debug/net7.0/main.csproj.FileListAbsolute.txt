@@ -1,0 +1,15 @@
+/Users/christian/Documents/School/2fall2023/applied_programming/employeeManager/employeeManager/main/bin/Debug/net7.0/main
+/Users/christian/Documents/School/2fall2023/applied_programming/employeeManager/employeeManager/main/bin/Debug/net7.0/main.deps.json
+/Users/christian/Documents/School/2fall2023/applied_programming/employeeManager/employeeManager/main/bin/Debug/net7.0/main.runtimeconfig.json
+/Users/christian/Documents/School/2fall2023/applied_programming/employeeManager/employeeManager/main/bin/Debug/net7.0/main.dll
+/Users/christian/Documents/School/2fall2023/applied_programming/employeeManager/employeeManager/main/bin/Debug/net7.0/main.pdb
+/Users/christian/Documents/School/2fall2023/applied_programming/employeeManager/employeeManager/main/obj/Debug/net7.0/main.csproj.AssemblyReference.cache
+/Users/christian/Documents/School/2fall2023/applied_programming/employeeManager/employeeManager/main/obj/Debug/net7.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christian/Documents/School/2fall2023/applied_programming/employeeManager/employeeManager/main/obj/Debug/net7.0/main.AssemblyInfoInputs.cache
+/Users/christian/Documents/School/2fall2023/applied_programming/employeeManager/employeeManager/main/obj/Debug/net7.0/main.AssemblyInfo.cs
+/Users/christian/Documents/School/2fall2023/applied_programming/employeeManager/employeeManager/main/obj/Debug/net7.0/main.csproj.CoreCompileInputs.cache
+/Users/christian/Documents/School/2fall2023/applied_programming/employeeManager/employeeManager/main/obj/Debug/net7.0/main.dll
+/Users/christian/Documents/School/2fall2023/applied_programming/employeeManager/employeeManager/main/obj/Debug/net7.0/refint/main.dll
+/Users/christian/Documents/School/2fall2023/applied_programming/employeeManager/employeeManager/main/obj/Debug/net7.0/main.pdb
+/Users/christian/Documents/School/2fall2023/applied_programming/employeeManager/employeeManager/main/obj/Debug/net7.0/main.genruntimeconfig.cache
+/Users/christian/Documents/School/2fall2023/applied_programming/employeeManager/employeeManager/main/obj/Debug/net7.0/ref/main.dll
